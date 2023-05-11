@@ -48,6 +48,7 @@ while True:
                 if continua in 'Nn':
                     break
                 elif continua in 'Ss':
+                    List.clear()
                     os.system("cls")
             case 2:
                 numero = valor()
