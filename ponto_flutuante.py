@@ -1,4 +1,3 @@
-
 base = int(input('Digite a base: '))
 digitos = int(input('Digite o número de dígitos: '))
 expoente = int(input('Digite o expoente: '))
